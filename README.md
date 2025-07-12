@@ -48,7 +48,7 @@ I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in bac
 
 
 [![Itch.io](https://img.shields.io/badge/itch.io-profile-red?logo=itch-io)](http://patnosd.itch.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](http://x.com/patnos_d)
+[![Twitter](https://img.shields.io/badge/Twitter-@patnosd-1DA1F2?logo=twitter)](http://x.com/patnos_d)
 
 ---
 
