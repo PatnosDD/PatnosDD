@@ -2,7 +2,7 @@
 
  **Back-End Developer | Game Developer | Porting Enthusiast**
 
-I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in backend development and cross-platform game porting. My journey started with modding and evolved into full-fledged game development and backend system design.
+I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in cross-platform game porting & game development. My journey started with modding and evolved into full-fledged game development.
 
 ---
 
