@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Iakobi!
 
- **Back-End Developer | Game Developer | Porting Enthusiast**
+ **Game Developer | Porting Enthusiast**
 
 I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in cross-platform game porting & game development. My journey started with modding and evolved into full-fledged game development.
 
