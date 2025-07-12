@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Iakobi!
 
-🎮 **Back-End Developer | Game Developer | Porting Enthusiast**
+ **Back-End Developer | Game Developer | Porting Enthusiast**
 
 I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in backend development and cross-platform game porting. My journey started with modding and evolved into full-fledged game development and backend system design.
 
@@ -8,21 +8,21 @@ I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in bac
 
 ### 🧠 About Me
 
-- 🔧 Junior Game Developer experienced with **Unity**, specializing in **reverse-engineering** and **porting games to low-end platforms** like **PlayStation Vita**.
-- 💻 Skilled in **C#**, **.NET Core**, **ASP.NET**, **Microsoft SQL**, and building scalable backend systems.
-- ⚙️ I love optimizing code for performance, solving low-level challenges, and pushing the limits of hardware.
+-  Junior Game Developer experienced with **Unity**, specializing in **reverse-engineering** and **porting games to low-end platforms** like **PlayStation Vita**.
+-  Skilled in **C#**, **.NET Core**, **ASP.NET**, **Microsoft SQL**, and building scalable backend systems.
+-  I love optimizing code for performance, solving low-level challenges, and pushing the limits of hardware.
 
 ---
 
-### 💼 What I'm Working On
+### What I'm Working On
 
-- ⚙️ Freelance bounty-based **game ports** (PS Vita)
-- 🎮 Participating in game jams and developing small-scale games
-- 💡 Personal narrative-driven game ideas using **LiDAR visuals**, **emotional storytelling**, and **Georgian culture**
+-  Freelance bounty-based **game ports** (PS Vita)
+-  Participating in game jams and developing small-scale games
+-  Personal narrative-driven game ideas using **LiDAR visuals**, **emotional storytelling**, and **Georgian culture**
 
 ---
 
-### 🔧 Skills & Tools
+###  Skills & Tools
 
 **Backend**  
 `C#` | `.NET Core` | `ASP.NET` | `SQL Server` | `REST APIs`
@@ -44,7 +44,11 @@ I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in bac
 *Hollow Knight*,
 *Cuphead*,
 *Night in the Woods*
-& more to PS Vita.  
+& more to PS Vita.
+
+
+[![Itch.io](https://img.shields.io/badge/itch.io-profile-red?logo=itch-io)](http://patnosd.itch.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](http://x.com/patnos_d)
 
 ---
 
