@@ -6,9 +6,9 @@ I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in cro
 
 ---
 
-### 🧠 About Me
+### About Me
 
--  Junior Game Developer experienced with **Unity**, specializing in **reverse-engineering** and **porting games to low-end platforms** like **PlayStation Vita**.
+- Game Developer experienced with **Unity**, specializing in **reverse-engineering** and **porting games to low-end platforms** like **PlayStation Vita**.
 -  Skilled in **C#**, **.NET Core**, **ASP.NET**, **Microsoft SQL**, and building scalable backend systems.
 -  I love optimizing code for performance, solving low-level challenges, and pushing the limits of hardware.
 
@@ -16,10 +16,9 @@ I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in cro
 
 ### What I'm Working On
 
--  Freelance bounty-based **game ports** (PS Vita)
--  Participating in game jams and developing small-scale games
--  Personal narrative-driven game ideas using **LiDAR visuals**, **emotional storytelling**, and **Georgian culture**
-
+-   Bringing more beloved indie games to the **PS Vita** through community-driven porting projects.
+-   Jumping into **game jams** whenever I can to build fun, small-scale games and experiment with new ideas.
+-   Slowly bringing a personal, **narrative-driven game** to life, one prototype at a time.
 ---
 
 ###  Skills & Tools
