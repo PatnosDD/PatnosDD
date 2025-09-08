@@ -37,15 +37,6 @@ I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in cro
 
 ---
 
-### Notable Projects
-
-- **Homebrew PS Vita Ports**: Ported games like 
-*Hollow Knight*,
-*Cuphead*,
-*Night in the Woods*
-& more to PS Vita.
-
-
 [![Itch.io](https://img.shields.io/badge/itch.io-profile-red?logo=itch-io)](http://patnosd.itch.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-@patnosd-1DA1F2?logo=twitter)](http://x.com/patnos_d)
 
