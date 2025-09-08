@@ -37,9 +37,9 @@ I'm a passionate developer from Tbilisi, Georgia 🇬🇪 who specializes in cro
 
 ---
 
-### 🧪 Notable Projects
+### Notable Projects
 
-- 🕹️ **Homebrew PS Vita Ports**: Ported games like 
+- **Homebrew PS Vita Ports**: Ported games like 
 *Hollow Knight*,
 *Cuphead*,
 *Night in the Woods*
