@@ -36,7 +36,7 @@ I'm a passionate developer from Tbilisi, Georgia who specializes in cross-platfo
 `Git` | `GitHub` | `Postman` | `Game Modding`
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
 [![Itch.io](https://img.shields.io/badge/itch.io-profile-red?logo=itch-io)](http://patnosd.itch.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-@patnosd-1DA1F2?logo=twitter)](http://x.com/patnos_d)
 
