@@ -17,7 +17,7 @@
           $ <b>cat ./CURRENT_PROJECT.txt</b><br>
           > 🥙 <b><a href="https://store.steampowered.com/app/4186870/Besos_Shawarma/?beta=0">BESO'S SHAWARMA</a></b> [Steam Page]<br>
           > -----------------------------------------<br>
-          > A narrative horror journey through a surreal Tbilisi.<br>
+          > A narrative horror journey through a surreal Tbilisi<br>
           > 📅 <b>Status:</b> Planned Release April 2026<br>
           <br>
           $ <b>ls ./projects/showcase</b><br>
@@ -27,11 +27,13 @@
           │&nbsp;&nbsp;&nbsp;└── <a href="https://github.com/PatnosDD/Cuphead-PS-VITA">Cuphead</a><br>
           │&nbsp;&nbsp;&nbsp;└── <a>Etc..</a><br>
           │<br>
-          ├── 🕹️ <b>Game Jams (Itch.io)</b><br>
+          ├── 🕹️ <b>Original Games</b><br>
           │&nbsp;&nbsp;&nbsp;├── <a href="https://patnosd.itch.io/a-bus-story">A Bus Story</a> [Thailand Summer Jam]<br>
           │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── A quiet, text-driven narrative road trip.<br>
-          │&nbsp;&nbsp;&nbsp;└── <a href="https://patnosd.itch.io/axis-of-light">Axis of Light</a> [Devtherapy Jam]<br>
-          │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 15-hour puzzle game in a forgotten bunker.<br>
+          │&nbsp;&nbsp;&nbsp;├── <a href="https://patnosd.itch.io/axis-of-light">Axis of Light</a> [Devtherapy Jam]<br>
+          │&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── 15-hour puzzle game in a forgotten bunker.<br>
+          │&nbsp;&nbsp;&nbsp;└── <a href="https://store.steampowered.com/app/4186870/Besos_Shawarma/?beta=0">Beso's Shawarma</a><br>
+          │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── A narrative horror journey through a surreal Tbilisi.<br>
           <br>
           $ <b>grep "skills" .</b><br>
           > <b>LANGUAGES:</b> C#, SQL, TypeScript, JavaScript<br>
