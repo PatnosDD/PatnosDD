@@ -18,7 +18,7 @@
           > 🥙 <b><a href="https://store.steampowered.com/app/4186870/Besos_Shawarma/?beta=0">BESO'S SHAWARMA</a></b> [Steam Page]<br>
           > -----------------------------------------<br>
           > A narrative horror journey through a surreal Tbilisi<br>
-          > 📅 <b>Status:</b> Planned Release April 2026<br>
+          > 📅 <b>Status:</b> Released<br>
           <br>
           $ <b>ls ./projects/showcase</b><br>
           <br>
